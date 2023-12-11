@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22222" systemVersion="22G91" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="MenuModel" representedClassName="MenuModel" syncable="YES" codeGenerationType="class">
+        <attribute name="airport_from" optional="YES" attributeType="String"/>
+        <attribute name="airport_to" optional="YES" attributeType="String"/>
+        <attribute name="arrival_time" optional="YES" attributeType="String"/>
+        <attribute name="departure_time" optional="YES" attributeType="String"/>
+        <attribute name="flight_number" optional="YES" attributeType="String"/>
+        <attribute name="flight_time" optional="YES" attributeType="String"/>
+        <attribute name="from" optional="YES" attributeType="String"/>
+        <attribute name="to" optional="YES" attributeType="String"/>
+    </entity>
+</model>
